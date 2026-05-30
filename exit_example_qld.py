@@ -39,10 +39,11 @@ class CustomsWarehouseAPI:
         payload = [
             {
                 "warehouseCode": "DTP00000969236PT",
-                "internalReference": "CY358926326US",
-                "customsRegime": "1000",
-                "orderNumberDate": "2025-02-10",
-                "diverseInfo1": "Devolução à Origem Cliente ou Expirado",
+                "internalReference": "ZA113565485CA",
+                "customsRegime": "5100",
+                "orderNumber":"000000000000000000",
+                "orderNumberDate": "2025-12-10",
+                "diverseInfo1": "Destruíção Proíbidos",
                 "customsDebtValue": "0"
             }
         ]
